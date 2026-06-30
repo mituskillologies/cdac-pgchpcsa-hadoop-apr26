@@ -49,14 +49,11 @@ The repository is completely Java-based (100%) and contains the MapReduce and Ha
 
 🏢 About the Organization
 
-MITU Skillologies, Pune
-
+**MITU Skillologies, Pune
+**
 Empowering through Practical Education
-
-Leadership: Rashmi R. Thorave, Managing Director
 
 Connect With Us:
 
-    Website: mituskillologies.in
-
-    Email: info@mituskillologies.in
+    Website: https://mitu.co.in
+    Email: contact@mitu.co.in
